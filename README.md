@@ -26,4 +26,7 @@
 * ![resim](https://user-images.githubusercontent.com/74324563/234355478-581408bf-a43c-46d1-87f6-5ebbe2fd6852.png)
 * ![resim](https://user-images.githubusercontent.com/74324563/234355497-200c1a72-68a8-4b71-baca-46f42ac96488.png)
 
- 
+### Contributors
+Ömer Faruk Kumral : [email](thekumral.44@gmail.com)
+
+
