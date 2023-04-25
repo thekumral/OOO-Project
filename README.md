@@ -3,7 +3,7 @@
 * müşteriler kayıt olur kendilerine ait hesaplardan ödeme gerçekleştirip çeşitli avantajlardan faydalanabilir.
 * Müşterilerimiz yaptığı belirli alışverişler sonucunda şirket tarafından aldıkları çekler ile bir sürü avantajlara da sahip olabileceklerdir.
 - Kayıt ekranı
-*  ![resim](https://user-images.githubusercontent.com/74324563/234354703-0be9f26b-7082-4eea-850c-43acdf01c228.png)
+* ![WhatsApp Image 2023-04-25 at 20 30 05](https://user-images.githubusercontent.com/74324563/234356232-ee9b59de-5294-4932-af13-76ff037a6243.jpg)
 - Giriş ekranı
 * ![resim](https://user-images.githubusercontent.com/74324563/234354933-dd296043-e382-48ee-977a-4da364f9d6c5.png)
 - Ürün seçim sayfası
